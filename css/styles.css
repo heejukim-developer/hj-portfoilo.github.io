@@ -11077,3 +11077,6 @@ html {
   font-size: x-large;
   
 }
+p{
+  white-space: normal;
+}
